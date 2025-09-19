@@ -58,16 +58,13 @@ Este backend oferece as seguintes funcionalidades principais, cobrindo os requis
 
 Para rodar este projeto localmente, siga os passos abaixo:
 
-### Pré-requisitos
+### Autor
 
-*   **Node.js** (versão LTS recomendada, ex: v18.x ou superior)
-*   **npm** (gerenciador de pacotes do Node.js)
-*   **MongoDB**:
-    *   **Opção 1 (Local):** Instale o [MongoDB Community Server](https://www.mongodb.com/try/download/community).
-    *   **Opção 2 (Nuvem - Recomendado):** Crie um cluster gratuito no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register).
+*  Pedro Henrique Silva Oliveira
 
-### 1. Clonar o Repositório
+### RA
 
-```bash
-git clone <URL_DO_SEU_REPOSITORIO_GITHUB>
-cd E-commerce-Back-End
+*  a2312344
+
+
+
