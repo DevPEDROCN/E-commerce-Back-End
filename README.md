@@ -155,6 +155,10 @@ Seu servidor estará rodando localmente na porta que você configurou (por exemp
 
 * http://localhost:3000/api/orders
 
+## 7. Testar API 
+
+* Testes realizados no cmd do Windows.
+* Use o TESTES.md como guia para realizar todos os testes da API e-commerce.
 
 
 ### Autor
@@ -164,6 +168,7 @@ Seu servidor estará rodando localmente na porta que você configurou (por exemp
 ### RA
 
 *  a2312344
+
 
 
 
