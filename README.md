@@ -158,7 +158,7 @@ Seu servidor estará rodando localmente na porta que você configurou (por exemp
 ## 7. Testar API 
 
 * Testes realizados no cmd do Windows.
-* Use o TESTES.md como guia para realizar todos os testes da API e-commerce.
+* Use o TESTES.md como guia para realizar todos os testes.
 
 
 ### Autor
@@ -168,6 +168,7 @@ Seu servidor estará rodando localmente na porta que você configurou (por exemp
 ### RA
 
 *  a2312344
+
 
 
 
