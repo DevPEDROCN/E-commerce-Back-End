@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # E-commerce Back-End
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
@@ -240,4 +240,5 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 
 
->>>>>>> 1413fbb (feat: implementacao de modelos, controllers e rotas para User e Order, com autenticacao JWT)
+
+
