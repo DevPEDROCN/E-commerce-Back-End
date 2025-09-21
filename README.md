@@ -90,7 +90,7 @@ Se o seu código estiver em um repositório Git (como GitHub, GitLab, Bitbucket)
 Abra seu terminal ou Prompt de Comando (CMD) e execute:
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/DevPEDROCN/E-commerce-Back-End.git
 ```
 
 Se você já tem os arquivos do projeto em uma pasta, pode pular este passo.
@@ -98,7 +98,7 @@ Se você já tem os arquivos do projeto em uma pasta, pode pular este passo.
 ## 2. Navegar até o Diretório do Projeto
 Após clonar (ou se já tiver os arquivos), navegue até a pasta raiz do seu projeto no terminal/CMD:
 ```bash
-cd nome-da-sua-pasta-do-projeto
+cd C:\Users\Phsol\OneDrive\área de trabalho\Back\E-commerce-Back-End
 ```
 Substitua nome-da-sua-pasta-do-projeto pelo nome real da pasta onde seu projeto está localizado.
 
@@ -126,7 +126,7 @@ JWT_EXPIRE=1h
 PORT: A porta em que seu servidor Node.js será executado (geralmente 3000 ou 5000).
 MONGO_URI: A string de conexão para o seu banco de dados MongoDB.
 
-Se estiver usando MongoDB local: mongodb://localhost:27017/seunomebanco (substitua seunomebanco pelo nome desejado para o seu banco de dados).
+Se estiver usando MongoDB local: mongodb://localhost:27017/seunomebanco (substitua seunomebanco pelo nome desejado para o seu banco de dados( No meu caso : ecommerce).
 
 Se estiver usando MongoDB Atlas: cole a string de conexão fornecida pelo Atlas.
 ```bash
@@ -168,6 +168,7 @@ Seu servidor estará rodando localmente na porta que você configurou (por exemp
 ### RA
 
 *  a2312344
+
 
 
 
