@@ -87,7 +87,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em seu sistema:
 
 Se o seu código estiver em um repositório Git (como GitHub, GitLab, Bitbucket), o primeiro passo é cloná-lo para sua máquina local.
 
-Abra seu terminal ou Prompt de Comando (CMD) e execute:
+Abra seu terminal ou Prompt de Comando (CMD) e execute (Exemplo abaixo):
 
 ```bash
 git clone https://github.com/DevPEDROCN/E-commerce-Back-End.git
@@ -168,6 +168,7 @@ Seu servidor estará rodando localmente na porta que você configurou (por exemp
 ### RA
 
 *  a2312344
+
 
 
 
